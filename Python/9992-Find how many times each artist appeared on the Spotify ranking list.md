@@ -10,6 +10,4 @@ import pandas as pd
 a = spotify_worldwide_daily_song_ranking
 
 artist_count = a.groupby('artist')['trackname'].count().sort_values(ascending=False).reset_index()
-
-artist_count
 ```
