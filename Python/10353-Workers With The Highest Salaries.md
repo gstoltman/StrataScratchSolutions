@@ -1,4 +1,4 @@
-Find the titles of workers that earn the highest salary. Output the highest-paid title or multiple titles that share the highest salary.
+##Find the titles of workers that earn the highest salary. Output the highest-paid title or multiple titles that share the highest salary.
 
 ```
 # Import your libraries
